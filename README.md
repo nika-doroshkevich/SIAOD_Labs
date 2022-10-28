@@ -1,4 +1,4 @@
-# :pushpin: This is my labs for the subject "Data processing structures and algorithms"
+# :pushpin: These are my labs for the subject "Data processing structures and algorithms"
 
 I did these labs in the second year of university in the third semester.
 
